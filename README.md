@@ -1,6 +1,6 @@
 ### Olá, eu sou o Guilherme Abraão!
 
-- Atualamente faço Engenharia de Software na Universidade Federal de Goiânia (UFG) estudando especificamente Modelagem de Software, Processos de Software, Engenharia de Sistemas e Construção de Software. 😄
+- Atualmente faço Engenharia de Software na Universidade Federal de Goiás (UFG) estudando especificamente Modelagem de Software, Processos de Software, Engenharia de Sistemas e Construção de Software. 😄
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
