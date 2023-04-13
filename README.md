@@ -2,9 +2,6 @@
 
 - Atualmente faço Engenharia de Software na Universidade Federal de Goiás (UFG) estudando especificamente Modelagem de Software, Processos de Software, Engenharia de Sistemas e Construção de Software. 😄
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Guilherme-Abraao&show_icons=true&theme=dracula" />
-<img   width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Abraao&hide_progress=true&theme=dracula" />
-
  - Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br>
