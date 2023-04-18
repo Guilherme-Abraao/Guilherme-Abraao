@@ -2,6 +2,13 @@
 
 - Atualmente faço Engenharia de Software na Universidade Federal de Goiás (UFG) estudando especificamente Modelagem de Software, Processos de Software, Engenharia de Sistemas e Construção de Software. 😄
 
+<div>
+ <a href="https://github.com/vnduda">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Abraao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Abraao&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
  - Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br>
