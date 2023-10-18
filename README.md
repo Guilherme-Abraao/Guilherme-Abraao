@@ -1,6 +1,6 @@
 ### Olá, eu sou o Guilherme Abraão!
 
-- Atualmente faço Engenharia de Software na Universidade Federal de Goiás (UFG) estudando especificamente Modelagem de Software, Processos de Software, Engenharia de Sistemas e Construção de Software. 😄
+- Faço Engenharia de Software na Universidade Federal de Goiás (UFG), atualmente no 6º período, estudando especificamente Modelagem e Desing de Software, Processos de Qualidade de Software e Gerência de Projeto de Software. 😄
 
 <div>
  <a href="https://github.com/vnduda">
